@@ -39,6 +39,9 @@ Dieses Projekt simuliert eine robuste Bildübertragung über verrauschte Kanäle
 + Empfindlich gegen Rauschen
 
 ### Phase 3: Autoencoder-Ansatz (Deep Learning)
+
+**[Python Skript von Phase 3](/ISS%20–%20Deep%20Learning%20in%20communication%20technology%20project/with_train.py)**
+
 + Encoder:
 
  - Komprimiert Bilder in einen 64-D latenten Raum
@@ -60,7 +63,11 @@ Dieses Projekt simuliert eine robuste Bildübertragung über verrauschte Kanäle
   ✅ End-to-End trainierbar
 
 ### Phase 4: Abschluss
+
+**[Python Skript von Phase 2](/ISS%20–%20Deep%20Learning%20in%20communication%20technology%20project/Presentation/Final_KI-ISS%20.pptx)**
+
 + Präsentation der Ergebnisse
+
 
 + Vergleich beider Ansätze (Bitfehlerrate, Rekonstruktionsqualität)
 ## 🛠 Technologien
