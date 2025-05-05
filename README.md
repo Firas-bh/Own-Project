@@ -21,6 +21,9 @@ Dieses Projekt simuliert eine robuste Bildübertragung über verrauschte Kanäle
 + Entwicklung einer Basisimplementierung ohne ML
 
 ### Phase 2: Klassische Signalverarbeitung
+[Skript von Phase 2](/ISS-Deep-Learning-in-communication-technology-project/main.py)
+
+
 + Manuelle Feature-Extraktion:
 
   - Direkte Umwandlung von Bildpixeln in Bitstreams
