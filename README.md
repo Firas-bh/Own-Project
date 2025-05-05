@@ -83,3 +83,27 @@ Python 3.9 | TensorFlow/Keras | NumPy | komm | Matplotlib
 
 
 ## Werkstudent bei STRABAG
+
+Finance Calculation Tool (PowerApps)
+Hinweis: Dies ist eine anonymisierte Code-Demo. Alle firmenspezifischen Daten und Logiken wurden entfernt oder abstrahiert.
+
+###🔒 Datenschutzhinweis
+Aufgrund interner Compliance-Richtlinien enthält dieses Repository nur:
+
++ Generische Code-Ausschnitte
+
++ Anonymisierte Funktionsbeschreibungen
+
++ Keine echten Geschäftslogiken oder Datenstrukturen
+
+### 📌 Funktionen
+- Berechnung von Körperschaft-/Gewerbesteuer
+- Dynamische Zinsberechnung (§233a)
+- Fälligkeitsdatum-Logik
+
+### ⚙️ Technische Details
+| Komponente       | Beschreibung                |
+|------------------|----------------------------|
+| **Sprache**      | Power Fx                   |
+| **Datenquellen** | SharePoint Lists           |
+| **Key-Logik**    |[sehe hier](/Werkstudent_bei_STRABAG/AuszugAusEinemProject.fx)|
