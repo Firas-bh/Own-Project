@@ -3,7 +3,10 @@ Universitätsprojekte sowie Auszüge aus der aktuellen Werkstudentenstelle.
 
 Folgende Projekte sind:
 
-[ISS – Deep Learning in communication technology project](#ISS---Deep-Learning-in-communication-technology-project)
++ [ISS – Deep Learning in communication technology project](#ISS---Deep-Learning-in-communication-technology-project)
+
++ [Werkstudent bei STRABAG](#Werkstudent-bei-STRABAG)
+
 
 ## ISS - Deep Learning in communication technology project
 
@@ -77,3 +80,6 @@ Dieses Projekt simuliert eine robuste Bildübertragung über verrauschte Kanäle
 + Vergleich beider Ansätze (Bitfehlerrate, Rekonstruktionsqualität)
 ## 🛠 Technologien
 Python 3.9 | TensorFlow/Keras | NumPy | komm | Matplotlib
+
+
+## Werkstudent bei STRABAG
