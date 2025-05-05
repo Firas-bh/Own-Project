@@ -87,7 +87,7 @@ Python 3.9 | TensorFlow/Keras | NumPy | komm | Matplotlib
 Finance Calculation Tool (PowerApps)
 Hinweis: Dies ist eine anonymisierte Code-Demo. Alle firmenspezifischen Daten und Logiken wurden entfernt oder abstrahiert.
 
-###🔒 Datenschutzhinweis
+### 🔒 Datenschutzhinweis
 Aufgrund interner Compliance-Richtlinien enthält dieses Repository nur:
 
 + Generische Code-Ausschnitte
