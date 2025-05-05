@@ -1,6 +1,11 @@
 # Own-Project
-University projects as well as excerpts from the current working student position
-## ISS – Deep Learning in communication technology project
+Universitätsprojekte sowie Auszüge aus der aktuellen Werkstudentenstelle.
+
+Folgende Projekte sind:
+
+[ISS – Deep Learning in communication technology project](#ISS---Deep-Learning-in-communication-technology-project)
+
+## ISS - Deep Learning in communication technology project
 
 + Entwicklung eines Encoder-Decoder-Modells
 
