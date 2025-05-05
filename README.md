@@ -60,3 +60,5 @@ Dieses Projekt simuliert eine robuste Bildübertragung über verrauschte Kanäle
 + Präsentation der Ergebnisse
 
 + Vergleich beider Ansätze (Bitfehlerrate, Rekonstruktionsqualität)
+## 🛠 Technologien
+Python 3.9 | TensorFlow/Keras | NumPy | komm | Matplotlib
