@@ -118,7 +118,7 @@ Aufgrund interner Compliance-Richtlinien enthält dieses Repository nur:
 ### C++ Programmierpraktikum - Algorithmen und Datenstrukturen
 **📚 Praktikumsziele**
 
-+ Dieses Praktikum vermittelt grundlegende Konzepte der Programmierung in C++ mit Fokus auf:
+Dieses Praktikum vermittelt grundlegende Konzepte der Programmierung in C++ mit Fokus auf:
 
 + Sprachunabhängige Problemlösungen in C++ umsetzen
 
