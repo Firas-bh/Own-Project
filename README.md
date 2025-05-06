@@ -7,6 +7,8 @@ Folgende Projekte sind:
 
 + [Werkstudent bei STRABAG](#Werkstudent-bei-STRABAG)
 
++ [Praktikum Informatik 1](#Praktikum-Informatik-1)
+
 
 ## ISS - Deep Learning in communication technology project
 
@@ -107,3 +109,43 @@ Aufgrund interner Compliance-Richtlinien enthält dieses Repository nur:
 | **Sprache**      | Power Fx                   |
 | **Datenquellen** | SharePoint Lists           |
 | **Key-Logik**    |[sehe hier](/Werkstudent_bei_STRABAG/AuszugAusEinemProject.fx)|
+
+
+## Praktikum Infomratik 1
+
+[sehe hier](/PT-1_Informatik)
+
+### C++ Programmierpraktikum - Algorithmen und Datenstrukturen
+**📚 Praktikumsziele**
+
++ Dieses Praktikum vermittelt grundlegende Konzepte der Programmierung in C++ mit Fokus auf:
+
++ Sprachunabhängige Problemlösungen in C++ umsetzen
+
++ Qualitätsmerkmale von Algorithmen analysieren (Genauigkeit, Effizienz)
+
++ Moderne C++-Techniken wie Templates und Operatorenüberladung anwenden
+
++ Vergleichende Betrachtung von Lösungsansätzen
+
+**🛠 Versuchsübersicht**
+| Versuch | Thema                          | Schwerpunkte                                                                 |
+|---------|--------------------------------|------------------------------------------------------------------------------|
+| 1       | Eclipse-Umgebung               | Erstes C++-Programm, Entwicklungsumgebung einrichten                         |
+| 2       | Datenstrukturen und Operationen | Grunddatentypen, Arrays, Structs, grundlegende Operationen                   |
+| 3       | Ablauf- und Kontrollstrukturen  | Verzweigungen, Schleifen, Funktionsaufrufe                                   |
+| 4       | Einführung in Klassen           | OOP-Grundlagen, Kapselung, Methoden                                          |
+| 5       | Dynamische Datenstrukturen      | Pointer, Linked Lists, Speichermanagement, Doxygen-Dokumentation             |
+| 6       | Standard Template Library (STL) | Container (vector, map), Algorithmen, Iteratoren                             |
+| 7       | Objektorientierte Techniken     | Polymorphie, Operator Overloading, Friend-Klassen                            |
+| 8       | Vererbung und abstrakte Typen   | Abstrakte Klassen, Interfaces, Mehrfachvererbung                             |
+
+**🛠 Technischer Stack**
+
+| Komponente               | Technologie/Optionen                      |
+|--------------------------|------------------------------------------|
+| **Programmiersprache**   | C++17/20                                 |
+| **Entwicklungsumgebung** | Eclipse CDT                              |
+| **Build-System**         | CMake/Make                               |
+| **Dokumentation**        | Doxygen                                  |
+
