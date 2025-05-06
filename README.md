@@ -111,7 +111,7 @@ Aufgrund interner Compliance-Richtlinien enthält dieses Repository nur:
 | **Key-Logik**    |[sehe hier](/Werkstudent_bei_STRABAG/AuszugAusEinemProject.fx)|
 
 
-## Praktikum Infomratik 1
+## Praktikum Informatik 1
 
 [sehe hier](/PT-1_Informatik)
 
